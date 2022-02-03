@@ -6,3 +6,12 @@ The goal of this project is to set up a proxy server which allows on the one han
 
 ## Installation 
 
+### Get code source and run it 
+```
+git clone https://github.com/ndririchard/Web_proxy.git
+cd Web_proxy
+javac *.java
+java Run
+```
+
+## Usage 
